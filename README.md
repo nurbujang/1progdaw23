@@ -13,22 +13,15 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 ### **Project Title: ** 
 
-
 ### Project Description:
 
-
 ## Background
- 
 
 ## Method
-1. 
-2. 
 
 ## Results and Discussion
 
-
 ## Conclusion
-The 
 
 ## References
 
