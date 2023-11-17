@@ -7,7 +7,11 @@ Project 1 for Programming for Data Analysis Winter 2023
 * License
 * ProgDAProject1.pdf (Project 1 Description)
 * project1.ipynb (Jupyter notebook)
+    * main report
+* chori.csv
+    * experimental results from literature review
 * Readme.md for Project 1
+    * supplementary data of Project 1
 
 ## Table of Content for project1.ipynb
 
