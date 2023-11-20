@@ -45,9 +45,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
         * Lactate Concentration
 
-* Methods
-
-* Results and Discussion
+* Methods and Implementation
 
 * Conclusion
 
