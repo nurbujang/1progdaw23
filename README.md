@@ -47,6 +47,14 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Methods and Implementation
 
+* Analysis
+
+    * Pearson Correlation
+
+    * Scatter Plot
+
+    * Violin Plot
+
 * Conclusion
 
 * References
