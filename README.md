@@ -56,6 +56,8 @@ Project 1 for Programming for Data Analysis Winter 2023
 
     * Violin Plot
 
+    * Box Plot
+
 * Conclusion
 
 * References
