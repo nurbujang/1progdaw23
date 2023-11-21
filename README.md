@@ -16,6 +16,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 * loggamma.png
 * weibull.png
 * exponential.png
+* samplepearson.png
 
 ## Table of Content for project1.ipynb
 
