@@ -50,13 +50,17 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Analysis
 
-    * Pearson Correlation
-
     * Scatter Plot
 
     * Violin Plot
 
     * Box Plot
+
+    * Pearson Correlation
+
+    * Correlation
+
+    * Regression
 
 * Conclusion
 
