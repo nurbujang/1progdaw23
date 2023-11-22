@@ -58,7 +58,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
     * Pearson Correlation
 
-    * Regression
+    * Multiple Linear Regression
 
 * Conclusion
 
