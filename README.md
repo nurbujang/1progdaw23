@@ -60,7 +60,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
     * Multiple Linear Regression
 
-* Conclusion
+* Conclusions
 
 * References
 
