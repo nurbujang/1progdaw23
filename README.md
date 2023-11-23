@@ -12,9 +12,9 @@ Project 1 for Programming for Data Analysis Winter 2023
     * experimental results from literature review
 * Readme.md for Project 1
     * supplementary data of Project 1
-* gumbel.png
+* genextreme.png
 * loggamma.png
-* weibull.png
+* dweibull.png
 * exponential.png
 * samplepearson.png
 
