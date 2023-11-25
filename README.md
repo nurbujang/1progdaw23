@@ -50,11 +50,13 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Analysis
 
+    * Distribution Plot
+
     * Scatter Plot
 
-    * Violin Plot
-
     * Box Plot
+
+    * Violin Plot
 
     * Pearson Correlation
 
