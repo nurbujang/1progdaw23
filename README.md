@@ -24,7 +24,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Project Title: Optimization of Recombinant CHO Cell Culture in a Miniature Bioreactor Model
 
-* Project Description
+* Abstract
 
 * Background
 
