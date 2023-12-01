@@ -26,47 +26,61 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Abstract
 
-* Background
+* 1.0 Background
 
-    * Monoclonal Antibodies
+    * 1.1 Monoclonal Antibodies
 
-    * Monoclonal Antibody Production Technologies
+    * 1.2 Monoclonal Antibody Production Technologies
 
-    * Large-Scale Recombinant Monoclonal Antibody Manufacturing Process
+    * 1.3 Large-Scale Recombinant Monoclonal Antibody Manufacturing Process
 
-    * Optimization of CHO Cell Culture Conditions in Bioreactors
+    * 1.4 Optimization of CHO Cell Culture Conditions in Bioreactors
 
-    * Factors Affecting CHO Cell Growth
+    * 1.5 Factors Affecting CHO Cell Growth
 
-        * Temperature
+        * 1.5.1 Temperature
 
-        * Dissolved Oxygen
+        * 1.5.2 Dissolved Oxygen
 
-        * Glucose Concentration
+        * 1.5.3 Glucose Concentration
 
-        * Lactate Concentration
+        * 1.5.4 Lactate Concentration
 
-* Methods and Implementation
+* 2.0 Methods and Implementation
 
-        * Project VS Real-world Situation
+        * 2.1 Assumptions
 
-* Analysis
+        * 2.2 Observed Data
 
-    * Distribution Plot
+        * 2.3 Real-world Situation
 
-    * Scatter Plot
+            * 2.3.1 Column temp
 
-    * Box Plot
+            * 2.3.2 Column oxygen
 
-    * Violin Plot
+            * 2.3.3 Column glucose
 
-    * Pearson Correlation
+            * 2.3.4 Column lactate
 
-    * Multiple Linear Regression
+            * 2.3.5 Column fvcd
 
-* Conclusions
+* 3.0 Analysis
 
-* References
+    * 3.1 Distribution Plot
+
+    * 3.2 Scatter Plot
+
+    * 3.3 Box Plot
+
+    * 3.4 Violin Plot
+
+    * 3.5 Pearson Correlation
+
+    * 3.6 Multiple Linear Regression
+
+* 4.0 Conclusions
+
+* 5.0 References
 
 ## Technologies Used
 
