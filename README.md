@@ -22,7 +22,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Project Instruction
 
-* Project Title: Optimization of Recombinant CHO Cell Culture in a Miniature Bioreactor Model
+* Project Title: Optimisation of Recombinant CHO Cell Culture in a Miniature Bioreactor Model
 
 * Abstract
 
@@ -34,7 +34,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
     * 1.3 Large-Scale Recombinant Monoclonal Antibody Manufacturing Process
 
-    * 1.4 Optimization of CHO Cell Culture Conditions in Bioreactors
+    * 1.4 Optimisation of CHO Cell Culture Conditions in Bioreactors
 
     * 1.5 Factors Affecting CHO Cell Growth
 
