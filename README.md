@@ -10,11 +10,12 @@ Project 1 for Programming for Data Analysis Winter 2023
     * main report
 * chorimil.csv
     * experimental results from literature review
-* Readme.md for Project 1
+* simcho.csv
+    * simulated dataset
+* README.md for Project 1
     * supplementary data of Project 1
-* genextreme.png
+* normal.png
 * loggamma.png
-* dweibull.png
 * exponential.png
 * samplepearson.png
 
@@ -52,7 +53,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
         * 2.2 Observed Data
 
-        * 2.3 Real-world Situation
+        * 2.3 Real-world Phenomenon
 
             * 2.3.1 Column temp
 
