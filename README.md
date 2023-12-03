@@ -23,7 +23,7 @@ Project 1 for Programming for Data Analysis Winter 2023
 
 * Project Instruction
 
-* Project Title: Optimisation of Recombinant CHO Cell Culture in a Miniature Bioreactor Model
+* Project Title: Modelling The Probability Distribution Of Temperature, Dissolved Oxygen, Glucose And Lactate Against The Final Viable Cell Density Of Recombinant CHO Cells
 
 * Abstract
 
@@ -78,6 +78,8 @@ Project 1 for Programming for Data Analysis Winter 2023
     * 3.5 Pearson Correlation
 
     * 3.6 Multiple Linear Regression
+
+        3.6.1 Perfect World Prediction
 
 * 4.0 Conclusions
 
